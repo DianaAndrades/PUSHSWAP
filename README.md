@@ -1,4 +1,4 @@
-<h1>Push Swap 2.0 - Fancy List Sorting</h1>
+<h1>Push Swap - Fancy List Sorting</h1>
 <h2>Getting Started</h2>
 <p>
 To get started with this project, you will need to have a C compiler installed on your machine, as well as the make utility.
