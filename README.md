@@ -37,5 +37,5 @@ sa pb pb sa pa pa pa
 1 2 3 5 6 8
 </pre>
 
-<p>LinkedIn<a href="https://www.linkedin.com/in/diana-andrades-martinez/">Diana Andrades Martínez</a></p>
-<p>Mail<a href="mailto:diana.andrades@epitech.e">diana.andrades@epitech.eu</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/diana-andrades-martinez/">Diana Andrades Martínez</a></p>
+<p>Mail: <a href="mailto:diana.andrades@epitech.e">diana.andrades@epitech.eu</a></p>
